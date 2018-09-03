@@ -1,0 +1,37 @@
+D:\מדעי המחשב\ClassCreator\ClassCreator\bin\Debug\ClassCreator.exe.config
+D:\מדעי המחשב\ClassCreator\ClassCreator\bin\Debug\ClassCreator.exe
+D:\מדעי המחשב\ClassCreator\ClassCreator\bin\Debug\ClassCreator.pdb
+D:\מדעי המחשב\ClassCreator\ClassCreator\obj\Debug\ClassCreator.csprojResolveAssemblyReference.cache
+D:\מדעי המחשב\ClassCreator\ClassCreator\obj\Debug\ClassCreator.exe
+D:\מדעי המחשב\ClassCreator\ClassCreator\obj\Debug\ClassCreator.pdb
+F:\מדעי המחשב\ClassCreator\ClassCreator\bin\Debug\ClassCreator.exe.config
+F:\מדעי המחשב\ClassCreator\ClassCreator\obj\Debug\ClassCreator.exe
+F:\מדעי המחשב\ClassCreator\ClassCreator\obj\Debug\ClassCreator.pdb
+G:\מדעי המחשב\C#\ClassCreator\ClassCreator\bin\Debug\ClassCreator.exe.config
+G:\מדעי המחשב\C#\ClassCreator\ClassCreator\obj\Debug\ClassCreator.exe
+G:\מדעי המחשב\C#\ClassCreator\ClassCreator\obj\Debug\ClassCreator.pdb
+G:\מדעי המחשב\C#\ClassCreator\ClassCreator\bin\Debug\ClassCreator.exe
+G:\מדעי המחשב\C#\ClassCreator\ClassCreator\bin\Debug\ClassCreator.pdb
+G:\מדעי המחשב\C#\ClassCreator\ClassCreator\obj\Debug\ClassCreator.csprojResolveAssemblyReference.cache
+D:\מדעי המחשב\C#\ClassCreator\ClassCreator\bin\Debug\ClassCreator.exe.config
+D:\מדעי המחשב\C#\ClassCreator\ClassCreator\obj\Debug\ClassCreator.exe
+D:\מדעי המחשב\C#\ClassCreator\ClassCreator\obj\Debug\ClassCreator.pdb
+D:\מדעי המחשב\C#\ClassCreator\ClassCreator\bin\Debug\ClassCreator.exe
+D:\מדעי המחשב\C#\ClassCreator\ClassCreator\bin\Debug\ClassCreator.pdb
+D:\מדעי המחשב\C#\ClassCreator\ClassCreator\obj\Debug\ClassCreator.csprojResolveAssemblyReference.cache
+F:\מדעי המחשב\C#\ClassCreator\ClassCreator\bin\Debug\ClassCreator.exe.config
+F:\מדעי המחשב\C#\ClassCreator\ClassCreator\obj\Debug\ClassCreator.exe
+F:\מדעי המחשב\C#\ClassCreator\ClassCreator\obj\Debug\ClassCreator.pdb
+D:\Computer Science\ClassCreator\ClassCreator\bin\Debug\ClassCreator.exe.config
+D:\Computer Science\ClassCreator\ClassCreator\obj\Debug\ClassCreator.exe
+D:\Computer Science\ClassCreator\ClassCreator\obj\Debug\ClassCreator.pdb
+D:\Computer Science\ClassCreator\ClassCreator\bin\Debug\ClassCreator.exe
+D:\Computer Science\ClassCreator\ClassCreator\bin\Debug\ClassCreator.pdb
+D:\Computer Science\ClassCreator\ClassCreator\obj\Debug\ClassCreator.csprojResolveAssemblyReference.cache
+C:\Users\David Elkoby\Documents\Interesting Projects\ClassCreator\ClassCreator\obj\Debug\ClassCreator.exe
+C:\Users\David Elkoby\Documents\Interesting Projects\ClassCreator\ClassCreator\obj\Debug\ClassCreator.pdb
+C:\Users\David Elkoby\Documents\Interesting Projects\ClassCreator\ClassCreator\bin\Debug\ClassCreator.exe.config
+C:\Users\David Elkoby\Documents\Interesting Projects\ClassCreator\ClassCreator\bin\Debug\ClassCreator.exe
+C:\Users\David Elkoby\Documents\Interesting Projects\ClassCreator\ClassCreator\bin\Debug\ClassCreator.pdb
+C:\Users\David Elkoby\Documents\Interesting Projects\ClassCreator\ClassCreator\obj\Debug\ClassCreator.csprojResolveAssemblyReference.cache
+C:\Users\David Elkoby\Documents\Interesting Projects\ClassCreator\ClassCreator\obj\Debug\ClassCreator.csproj.CoreCompileInputs.cache
